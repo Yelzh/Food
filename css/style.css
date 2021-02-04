@@ -1,0 +1,89 @@
+body {
+  font-family: "Ubuntu";
+}
+h1{
+  font-family: "Montserrat-Bold";
+}
+#start-title{
+  background-color: #ccccff;
+  padding: 2% 10%;
+}
+.img-kazan {
+  width: 300px;
+  margin-left: 120px;
+}
+.navbar{
+  margin-bottom: 10px;
+  padding: 0;
+}
+.title-h1{
+  margin-top: 50px;
+}
+.down-button{
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+.feature-grid{
+  padding: 2% 10%;
+  padding-top: 100px;
+}
+.fas_feat{
+  font-size: 70px;
+  color: #009999;
+  margin-bottom: 20px;
+}
+.carousel-inner{
+  height: 800px;
+  width: 1200px;
+}
+.about-us{
+  text-align: center;
+    font-size: 40px;
+  font-family: fantasy;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  background-color: #ccccff;
+}
+.info{
+  text-align: center;
+  font-size: 30px;
+  font-family: fantasy;
+  background-color: #ccccff;
+}
+.background-menu{
+  background-color: #654500;
+}
+.me-nu{
+margin: 0;
+text-align: center;
+font-family:cursive;
+background-color: #009999;
+color: #FFEEBF;}
+.dishes{
+  margin: 0;
+  text-align: center;
+  font-family:cursive;
+  background-color: #FFEEBF;
+  color: #009999;
+}
+.dessert{
+  margin: 0;
+  text-align: center;
+  font-family:cursive;
+  background-color: #FFEEBF;
+  color: #009999;
+}
+.beverages{
+  margin: 0;
+  text-align: center;
+  font-family:cursive;
+  background-color: #FFEEBF;
+  color: #009999;
+}
+.frame{
+  background-color: #009999;
+  color: #FFEEBF;}
+}
